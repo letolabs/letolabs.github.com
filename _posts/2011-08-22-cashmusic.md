@@ -3,19 +3,24 @@ layout: post
 title: Opening a Can of Disruption on the Music Industry
 ---
 
-{{ page.title }}
+# {{ page.title }}
 
 Free and Open Source software has been disrupting various markets and niches
 for almost 40 years, sometimes in a small way, other times with a big splash.
 But most of these events have been in extremely technical niches, such as
-operating systems, compilers, text editors, version control systems and the
-like. All of these technologies are "close to the metal" of hardcore geekery.
-Average users rarely interact with them or even know what they are.
+[operating](https://secure.wikimedia.org/wikipedia/en/wiki/Linux)
+[systems](http://rtems.com), [compilers](http://gcc.gnu.org),
+[text](http://vim.org) [editors](http://www.gnu.org/software/emacs), [version
+control systems](http://git-scm.com/) and the like. All of these technologies
+are "close to the metal" of hardcore geekery. Average users rarely interact
+with them or even know what they are, even though they have a huge impact
+on how software is made, delivered and run.
 
-Each year we see our "hacker spirit" travel farther into mainstream culture. We
-see our ideals start to tranform industries that were once just a glimmer in an
-idealistic hackers eye, such as electronic medical records and disaster relief
-software.
+Each year we see our ["hacker spirit"](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain)
+travel farther into mainstream culture. We
+are seeing our ideals starting to tranform industries that were once just a glimmer in an
+idealistic hackers eye, such as [electronic medical records](http://openmrs.org) or
+[disaster relief management software](https://secure.wikimedia.org/wikipedia/en/wiki/Sahana_FOSS_Disaster_Management_System).
 
 But so many industries still await transformation. One is the music industry,
 and in particular, music distribution, sales and promotion. This industry is
@@ -28,14 +33,14 @@ to send out a digital demo to a select group of people in hopes of getting a
 few reviews.
 
 This outrageous behavior of exploiting artists will soon come to an end, thanks
-to CASH Music. CASH Music is a non-profit that puts artists first, and has high
+to [CASH Music](http://cashmusic.org). CASH Music is a [non-profit](http://cashmusic.org/about/) that puts artists first, and has high
 hopes to change the tech landscape available to all artists, from the local
-garage band to international chart-toppers. There is code being hacked on
-currently called CASH Music DIY, originally started by the infamous Jesse Von
-Doom, and increasingly by yours truly. It aims to greatly change the power
-differential between artists and the industry that thrives around them.
+garage band to international chart-toppers and everyone in between. There is code being hacked on
+currently called [CASH Music DIY](https://github.com/cashmusic/DIY), originally started by the infamous 
+[Jesse Von Doom](https://twitter.com/#!/jessevondoom), and increasingly by [yours truly](http://leto.github.com). It aims to greatly change the power
+differential between artists and the industry that thrives on their existence.
 
-Through freely available code, that anybody is free to modify, tinker with, and
+Through [freely available code](http://cashmusic.org/about/faq/), that anybody is free to modify, tinker with, and
 learn from, artists will be able to manage and interact with their fans, sell
 and distribute digital and physical representations of their music and have
 full control about how to promote their creations.
@@ -46,12 +51,14 @@ is still in the "developer alpha stage", which means we are actively seeking
 out developers to take it out for a spin, give us feedback, and hopefully
 contribute back new and exciting features. Our aim is to make it run on just
 about any web hosting service with a recent-ish version of PHP, with no
-external dependencies, other than some kind of database access.
+external dependencies, other than some kind of database access. Once we get
+stuff nailed down and provide a baseline of functionality, we will look into
+hosted solutions.
 
-All that is necessary is to get a single PHP file onto your server, Everything
+All that is necessary is to get a [single PHP file](https://github.com/cashmusic/DIY/blob/master/installers/php/install.php) onto your server, Everything
 else is controlled via a pretty web interface that downloads, installs and
-configures everything you need and even includes custom art by XXX! Jesse has a
-sweet tooth for eye candy, and it shows.
+configures everything you need and even includes custom art by Audrey Nieh of [Squid You Not](http://www.squidyounot.com)!
+Jesse has a sweet tooth for eye candy, and it shows.
 
 We are working, slowly but surely, to make this software a game-changer. And
 slowly but surely is on purpose, because we are in it for the long haul, and
@@ -63,16 +70,18 @@ control over their own creations and allowing them to make a reasonable living
 by selling their art without all the middlemen.
 
 If this sounds fun to you, then we would love your help. Check out our code on
-Github, try out a developer release, let us know what you would like to see it
-do.  Join our IRC channel, follow CASH Music on Twitter. And, of course, we
+[https://github.com/cashmusic/DIY](Github), take a look at our [pretty developer docs](http://cashmusic.github.com/DIY/), let us know what you would like to see it
+do.  Join our IRC channel at #cashmusic on irc.freenode.net,
+follow CASH Music on the [http://twitter.com/cashmusic](service) [http://github.com/cashmusic](of) [http://www.facebook.com/cashmusic.org](your) choice. 
+And, of course, we
 aren't just looking for developers! If you have an eye for design or the knack
 for documentation, we could greatly use your help as well.
 
-The current plan is have a developer release every Thursday. You can see the
-first one here. We are all about small, iterative improvements. If each dev
+The current plan is have a developer release every Thursday. You can see a recent
+one [here](https://github.com/cashmusic/DIY/commits/dev_release_2). We are all about small, iterative improvements. If each dev
 release has one more feature, or better docs, or one less bug than the
 previous, than it is a success.
 
 We cordially invite you to join us in refactoring the music industry, because
-it surely has needed it for a long time. It sure is going to be a metric shit
+it surely has needed it for a long time and it sure is going to be a metric shit
 ton of fun.
