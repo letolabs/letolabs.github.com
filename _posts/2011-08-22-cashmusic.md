@@ -84,7 +84,7 @@ If you are feeling really generous, a [donation](http://cashmusic.org/donate/) w
 And, of course, we aren't just looking for developers! If you have an eye for
 design or the knack for documentation, we could greatly use your help as well.
 
-The current plan is have a developer release every Thursday. You can see a recent
+The current plan is have a [developer release every Thursday](http://blog.cashmusic.org/2011/08/11/the-cash-platform-a-peek-at-what-weve-been-up-to/). You can see a recent
 one [here](https://github.com/cashmusic/DIY/commits/dev_release_2). We are all about small, iterative improvements. If each dev
 release has one more feature, or better docs, or one less bug than the
 previous, than it is a success.
