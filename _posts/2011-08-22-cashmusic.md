@@ -53,7 +53,14 @@ contribute back new and exciting features. Our aim is to make it run on just
 about any web hosting service with a recent-ish version of PHP, with no
 external dependencies, other than some kind of database access. Once we get
 stuff nailed down and provide a baseline of functionality, we will look into
-hosted solutions.
+hosted solutions. Our other major goal is to make it easy to integrate CASH
+Music into an already existing website infrastructure, like Wordpress or
+other blogging systems. To add CASH Music to any of these systems, all you need
+to do is add this single line of PHP:
+
+    <?php require_once("$CASHMUSIC/framework/php/cashmusic.php"); ?>
+
+where $CASHMUSIC is the directory where the CASH Music DIY software lives on your server.
 
 All that is necessary is to get a [single PHP file](https://github.com/cashmusic/DIY/blob/master/installers/php/install.php) onto your server, Everything
 else is controlled via a pretty web interface that downloads, installs and
@@ -71,11 +78,11 @@ by selling their art without all the middlemen.
 
 If this sounds fun to you, then we would love your help. Check out our code on
 [https://github.com/cashmusic/DIY](Github), take a look at our [pretty developer docs](http://cashmusic.github.com/DIY/), let us know what you would like to see it
-do.  Join our IRC channel at #cashmusic on irc.freenode.net,
-follow CASH Music on the [http://twitter.com/cashmusic](service) [http://github.com/cashmusic](of) [http://www.facebook.com/cashmusic.org](your) choice. 
-And, of course, we
-aren't just looking for developers! If you have an eye for design or the knack
-for documentation, we could greatly use your help as well.
+do, and [definitely tell us if you find a bug or something wonky](http://help.cashmusic.org/).  Join our IRC channel at #cashmusic on irc.freenode.net,
+follow CASH Music on the [http://twitter.com/cashmusic](service) [http://github.com/cashmusic](of) [http://www.facebook.com/cashmusic.org](your) choice.
+If you are feeling really generous, a [donation](http://cashmusic.org/donate/) will go a long way.
+And, of course, we aren't just looking for developers! If you have an eye for
+design or the knack for documentation, we could greatly use your help as well.
 
 The current plan is have a developer release every Thursday. You can see a recent
 one [here](https://github.com/cashmusic/DIY/commits/dev_release_2). We are all about small, iterative improvements. If each dev
