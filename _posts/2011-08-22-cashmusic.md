@@ -18,7 +18,7 @@ on how software is made, delivered and run.
 
 Each year we see our ["hacker spirit"](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain)
 travel farther into mainstream culture. We
-are seeing our ideals starting to tranform industries that were once just a glimmer in an
+are seeing our ideals starting to transform industries that were once just a glimmer in an
 idealistic hackers eye, such as [electronic medical records](http://openmrs.org) or
 [disaster relief management software](https://secure.wikimedia.org/wikipedia/en/wiki/Sahana_FOSS_Disaster_Management_System).
 
