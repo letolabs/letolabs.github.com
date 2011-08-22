@@ -79,7 +79,7 @@ by selling their art without all the middlemen.
 If this sounds fun to you, then we would love your help. Check out our code on
 [https://github.com/cashmusic/DIY](Github), take a look at our [pretty developer docs](http://cashmusic.github.com/DIY/), let us know what you would like to see it
 do, and [definitely tell us if you find a bug or something wonky](http://help.cashmusic.org/).  Join our IRC channel at #cashmusic on irc.freenode.net,
-follow CASH Music on the [http://twitter.com/cashmusic](service) [http://github.com/cashmusic](of) [http://www.facebook.com/cashmusic.org](your) choice.
+follow CASH Music on the [service](http://twitter.com/cashmusic) [of](http://github.com/cashmusic) [your](http://www.facebook.com/cashmusic.org) choice.
 If you are feeling really generous, a [donation](http://cashmusic.org/donate/) will go a long way.
 And, of course, we aren't just looking for developers! If you have an eye for
 design or the knack for documentation, we could greatly use your help as well.
