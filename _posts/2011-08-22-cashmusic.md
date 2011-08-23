@@ -58,7 +58,9 @@ Music into an already existing website infrastructure, like Wordpress or
 other blogging systems. To add CASH Music to any of these systems, all you need
 to do is add this single line of PHP:
 
+{% highlight php %}
     <?php require_once("$CASHMUSIC/framework/php/cashmusic.php"); ?>
+{% endhighlight %}
 
 where $CASHMUSIC is the directory where the CASH Music DIY software lives on your server.
 
