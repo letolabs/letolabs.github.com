@@ -5,7 +5,7 @@ title: Opening a Can of Disruption on the Music Industry
 
 # {{ page.title }}
 
-Free and Open Source software has been disrupting various markets and niches
+Free and Open Source software has been disrupting various markets
 for almost 40 years, sometimes in a small way, other times with a big splash.
 But most of these events have been in extremely technical niches, such as
 [operating](https://secure.wikimedia.org/wikipedia/en/wiki/Linux)
@@ -25,9 +25,9 @@ idealistic hackers eye, such as [electronic medical records](http://openmrs.org)
 But so many industries still await transformation. One is the music industry,
 and in particular, music distribution, sales and promotion. This industry is
 currently dominated by proprietary software, usually sold as a hosted service.
-These services charge anywhere between 15% to 40% of artist sales, usually on
-top of any payment processing fees, for vanishingly little. This is in addition
-to exhorbitant fees, such as charging 50 cents for a "download code". This
+These services cost between 15% to 40% of artist sales, usually on
+top of any payment processing fees, for very little return. This cost is in addition
+to exorbitant fees, such as charging 50 cents for a "download code". This
 means it costs an artist (or their label) potentially hundreds of dollars just
 to send out a digital demo to a select group of people in hopes of getting a
 few reviews.
@@ -70,11 +70,11 @@ Jesse has a sweet tooth for eye candy, and it shows.
 We are working, slowly but surely, to make this software a game-changer. And
 slowly but surely is on purpose, because we are in it for the long haul, and
 the organization and code is evolving together. CASH Music is a non-profit, so
-we don't have millions of VC dollars to throw at this (which is for the best),
-but what we *do* have is the knowledge that this is important and it contains
-the seed of greatly improving the lives of many people, by allowing them more
-control over their own creations and allowing them to make a reasonable living
-by selling their art without all the middlemen.
+we don't have millions of VC dollars to throw at this, but what we *do* have is
+the knowledge that this is important and it contains the seed of greatly
+improving the lives of many people, by allowing them more control over their
+own creations and allowing them to make a reasonable living by selling their
+art without all the middlemen.
 
 If this sounds fun to you, then we would love your help. Check out our code on
 [https://github.com/cashmusic/DIY](Github), take a look at our [pretty developer docs](http://cashmusic.github.com/DIY/), let us know what you would like to see it
