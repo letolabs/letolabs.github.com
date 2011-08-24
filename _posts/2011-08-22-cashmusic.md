@@ -7,7 +7,7 @@ title: Opening a Can of Disruption on the Music Industry
 
 Free and Open Source software has been disrupting various markets
 for almost 40 years, sometimes in a small way, other times with a big splash.
-But most of these events have been in extremely technical niches, such as
+Most of these events have been in extremely technical niches, such as
 [operating](https://secure.wikimedia.org/wikipedia/en/wiki/Linux)
 [systems](http://rtems.com), [compilers](http://gcc.gnu.org),
 [text](http://vim.org) [editors](http://www.gnu.org/software/emacs), [version
@@ -89,7 +89,7 @@ design or the knack for documentation, we could greatly use your help as well.
 The current plan is have a [developer release every Thursday](http://blog.cashmusic.org/2011/08/11/the-cash-platform-a-peek-at-what-weve-been-up-to/). You can see a recent
 one [here](https://github.com/cashmusic/DIY/commits/dev_release_2). We are all about small, iterative improvements. If each dev
 release has one more feature, or better docs, or one less bug than the
-previous, than it is a success.
+previous, then it is a success.
 
 We cordially invite you to join us in refactoring the music industry, because
 it surely has needed it for a long time and it sure is going to be a metric shit
