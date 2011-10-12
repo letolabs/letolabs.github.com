@@ -36,4 +36,17 @@ deploy the CASH Music schema to SQLite in our test suite so databasey stuff can
 be tested. Since CASH Music is predominantly databasey interaction, this is
 absolutely necessary to for good test coverage.
 
+After SQLite was working, I created a "test installer" which is really just a
+paired down developer installer which sets up a DIY instance specifically to
+run test. This has recently allowed us to write some basic tests for
+CASHRequest which is a central component of DIY that just about everything else
+relies on.
 
+But why do we test? What is the big deal? Doesn't it take extra time? Is it
+really worth it?
+
+The difference between tested and untested code is a large chasm. On one side,
+you can make a change and have some confidence that it didn't break something,
+if your test suite passes. On the other side, any change, possibly only a
+single line or character has the possibility to break some other seemingly
+unrelated part of your codebase.
