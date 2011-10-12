@@ -49,4 +49,21 @@ The difference between tested and untested code is a large chasm. On one side,
 you can make a change and have some confidence that it didn't break something,
 if your test suite passes. On the other side, any change, possibly only a
 single line or character has the possibility to break some other seemingly
-unrelated part of your codebase.
+unrelated part of your codebase. The only way to be sure is to manually go
+through, attempting to exercise a large portion of your code to ensure nothing
+broke. As your codebase goes from dozens to thousands of lines of code, this
+quickly becomes infeasible. In these cases, developers change stuff and hope
+for the best, which is hardly a strategy at all.
+
+Testing does take extra time, but it also measurably increases the code quality
+as well as giving developers the agility to quickly change and adapt code.
+
+So is it really worth it to test CASH Music? THe way I see it, our lives are
+continually being entangled with code. What if that X-ray machine at the
+airport has a bug in it? What if self-driving robotic cars started mowing down
+cute innocent pedestrians?  Bugs affect the real physical meatspace that we
+live in. They are not only annoyances that purely exist in the digital realm.
+
+Since artists in the future will depend on our code, we are not taking bugs
+lightly. Our goal is a well-tested and easy-to-use platform that artists and
+labels can rely on.
