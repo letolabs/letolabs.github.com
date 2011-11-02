@@ -64,7 +64,7 @@ to do is add this single line of PHP:
 
 where $CASHMUSIC is the directory where the CASH Music DIY software lives on your server.
 
-All that is necessary is to get a [single PHP file](https://github.com/cashmusic/DIY/blob/master/installers/php/install.php) onto your server, Everything
+All that is necessary is to get a [single PHP file](https://github.com/cashmusic/DIY/blob/master/installers/php/cashmusic_web_installer.php) onto your server, Everything
 else is controlled via a pretty web interface that downloads, installs and
 configures everything you need and even includes custom art by Audrey Nieh of [Squid You Not](http://www.squidyounot.com)!
 Jesse has a sweet tooth for eye candy, and it shows.
