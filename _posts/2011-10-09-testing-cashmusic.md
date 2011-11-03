@@ -18,25 +18,25 @@ implementation works correctly.
 Some of the simplest and most useful tests to write are syntax checking test.
 Does every file in Foo pass a syntax check? If not, surely bugs are lurking.
 
-So, of course, the first kinds of tests that I wrote for CASH Music were syntax
+So, of course, the first kinds of tests that I wrote for [CASH Music](http://cashmusic.org) were syntax
 check tests, which have already proved useful in finding some issues.
 
 The next step in making tests useful are to get them automagically run on each
-commit to the DIY repo, also known as 'continuous integration'. CASH Music uses
-Jitterbug to run tests on each commit to Github, and it even has a pretty web
-interface to show off the data. This makes it very easy to see exactly which
+commit to the [DIY](https://github.com/cashmusic/DIY) repo, also known as 'continuous integration'. CASH Music uses
+[Jitterbug](http://jitterbug.pl) to run tests on each commit to [Github](http://github.com/organizations/cashmusic), and it even has a 
+[pretty web interface](http://dev.cashmusic.org:3000) to show off the data. This makes it very easy to see exactly which
 commit "breaks the test suite", i.e. causing at least one test to fail. Knowing
 *exactly* which commit breaks something is invaluable when things are being
 changed and fixed rapidly.
 
-Recently I helped to add SQLite support to our command-line developer
-installer. The primary motive was to make it easy for developers to test out
+Recently I helped to add [SQLite](http://sqlite.org) support to our command-line 
+[developer installer](https://github.com/cashmusic/DIY/blob/master/installers/php/dev_installer.php). The primary motive was to make it easy for developers to test out
 CASH Music without needing a MySQL database, but the secondary motive was to
 deploy the CASH Music schema to SQLite in our test suite so databasey stuff can
 be tested. Since CASH Music is predominantly databasey interaction, this is
 absolutely necessary to for good test coverage.
 
-After SQLite was working, I created a "test installer" which is really just a
+After SQLite was working, I created a [test installer](https://github.com/cashmusic/DIY/blob/master/installers/php/test_installer.php) which is really just a
 paired down developer installer which sets up a DIY instance specifically to
 run test. This has recently allowed us to write some basic tests for
 CASHRequest which is a central component of DIY that just about everything else
