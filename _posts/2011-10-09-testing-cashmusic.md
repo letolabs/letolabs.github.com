@@ -18,8 +18,8 @@ implementation works correctly.
 Some of the simplest and most useful tests to write are syntax checking test.
 Does every file in Foo pass a syntax check? If not, surely bugs are lurking.
 
-So, of course, the first kinds of tests that I wrote for [CASH Music](http://cashmusic.org) were syntax
-check tests, which have already proved useful in finding some issues.
+So, of course, the first kinds of tests that I wrote for [CASH Music](http://cashmusic.org) were 
+[syntax check tests](https://github.com/cashmusic/DIY/blob/master/tests/php/000_syntax.php), which have already proved useful in finding some issues.
 
 <img height="320" width="660" src="http://labs.leto.net/images/cashmusic_admin.png">
 
@@ -67,6 +67,6 @@ are trying to capture "street views" start mowing down cute innocent
 pedestrians or worse, their pets? Bugs in code are now intimately entangled
 with the physical meatspace that we live in.
 
-Since artists in the future will depend on our codebase, we are not taking bugs
-lightly. The only way CASH Music is going to roll is with a well-tested and
-easy-to-use platform that artists and labels can rely on.
+Since artists will depend on our codebase, we are not taking bugs lightly. The
+only way CASH Music is going to roll is with a well-tested and easy-to-use
+platform that artists and labels can rely on.
