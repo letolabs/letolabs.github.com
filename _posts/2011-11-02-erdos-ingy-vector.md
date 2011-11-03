@@ -15,7 +15,7 @@ Explain Erdős numbers. Just like kevin bacon degrees of seperation.
 
 $$ I_{e} = \left< n_e, n_i\right> $$
 
-$$ d(<1,3>) = \sqrt{1^2 + 3^2} = \sqrt{17} \sim 4.12 $$
+$$ d(I_e) = \sqrt(1^2 + 3^2) = \sqrt(17) \sim 4.12 $$
 
 I have an Erdős number of three, because Peter J. Cameron published a paper
 with Erdos in 1990, who later published a paper with John Cannon, who was a
