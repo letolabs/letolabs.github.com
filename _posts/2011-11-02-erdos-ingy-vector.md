@@ -22,3 +22,4 @@ with Erdos in 1990, who later published a paper with John Cannon, who was a
 co-author on a paper I published in 2002 as an undergraduate research assistant
 at University of Central Florida.
 
+http://www.leto.net/math/erdos.html
