@@ -24,7 +24,7 @@ check tests, which have already proved useful in finding some issues.
 The next step in making tests useful are to get them automagically run on each
 commit to the [DIY](https://github.com/cashmusic/DIY) repo, also known as 'continuous integration'. CASH Music uses
 [Jitterbug](http://jitterbug.pl) to run tests on each commit to [Github](http://github.com/organizations/cashmusic), and it even has a 
-[pretty web interface](http://dev.cashmusic.org:3000) to show off the data. This makes it very easy to see exactly which
+[pretty web interface](http://dev.cashmusic.org:3000/project/DIY) to show off the data. This makes it very easy to see exactly which
 commit "breaks the test suite", i.e. causing at least one test to fail. Knowing
 *exactly* which commit breaks something is invaluable when things are being
 changed and fixed rapidly.
