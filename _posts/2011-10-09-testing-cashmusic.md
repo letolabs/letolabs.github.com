@@ -21,6 +21,8 @@ Does every file in Foo pass a syntax check? If not, surely bugs are lurking.
 So, of course, the first kinds of tests that I wrote for [CASH Music](http://cashmusic.org) were syntax
 check tests, which have already proved useful in finding some issues.
 
+<img src="http://labs.leto.net/images/cashmusic_admin.png">
+
 The next step in making tests useful are to get them automagically run on each
 commit to the [DIY](https://github.com/cashmusic/DIY) repo, also known as 'continuous integration'. CASH Music uses
 [Jitterbug](http://jitterbug.pl) to run tests on each commit to [Github](http://github.com/organizations/cashmusic), and it even has a 
