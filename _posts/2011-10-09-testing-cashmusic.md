@@ -47,6 +47,10 @@ relies on.
 But why do we test? What is the big deal? Doesn't it take extra time? Is it
 really worth it?
 
+<center>
+<a href="http://www.flickr.com/photos/tyrian123/476203919/sizes/m/in/photostream/"><img src="/images/canyon.jpg"></a>
+</center>
+
 The difference between tested and untested code is a large chasm. On one side,
 you can make a change and have some confidence that it didn't break something,
 if your test suite passes. On the other side, any change, possibly only a
