@@ -58,12 +58,13 @@ for the best, which is hardly a strategy at all.
 Testing does take extra time, but it also measurably increases the code quality
 as well as giving developers the agility to quickly change and adapt code.
 
-So is it really worth it to test CASH Music? THe way I see it, our lives are
-continually being entangled with code. What if that X-ray machine at the
-airport has a bug in it? What if self-driving robotic cars started mowing down
-cute innocent pedestrians?  Bugs affect the real physical meatspace that we
-live in. They are not only annoyances that purely exist in the digital realm.
+So is it really worth it to test CASH Music? The way I see it, our lives are
+continually being entangled with code. What if that DNA-refactoring-with-Xrays
+machine at the airport has a bug in it? What if self-driving robotic cars that
+are trying to capture "street views" start mowing down cute innocent
+pedestrians or worse, their pets? Bugs in code are now intimately entangled
+with the physical meatspace that we live in.
 
-Since artists in the future will depend on our code, we are not taking bugs
-lightly. Our goal is a well-tested and easy-to-use platform that artists and
-labels can rely on.
+Since artists in the future will depend on our codebase, we are not taking bugs
+lightly. The only way CASH Music is going to roll is with a well-tested and
+easy-to-use platform that artists and labels can rely on.
