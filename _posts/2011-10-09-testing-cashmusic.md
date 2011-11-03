@@ -21,7 +21,7 @@ Does every file in Foo pass a syntax check? If not, surely bugs are lurking.
 So, of course, the first kinds of tests that I wrote for [CASH Music](http://cashmusic.org) were syntax
 check tests, which have already proved useful in finding some issues.
 
-<img height="260" width="320" src="http://labs.leto.net/images/cashmusic_admin.png">
+<img height="320" width="660" src="http://labs.leto.net/images/cashmusic_admin.png">
 
 The next step in making tests useful are to get them automagically run on each
 commit to the [DIY](https://github.com/cashmusic/DIY) repo, also known as 'continuous integration'. CASH Music uses
