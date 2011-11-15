@@ -21,7 +21,6 @@ Winxed is a new [Javascript-ish](http://whiteknight.github.com/Rosella/winxed/sy
 Machine. You can basically think of it as a scripting language on top of
 Parrot, which is good for writing system scripts and/or new languages.
 
-
 Many new projects on Parrot use Winxed for their build system, instead of
 Makefiles, Configure.pl or setup.pir. Here is the
 [setup.winxed](https://github.com/letolabs/parrot-libgit2/blob/master/setup.winxed)
@@ -29,6 +28,10 @@ file which is used to build, test and install parrot-libgit2. This
 setup.winxed file is very similar to how [distutils](http://wiki.python.org/moin/Distutils) works in the Python world.
 In fact, setup.pir was the old, [PIR](http://docs.parrot.org/parrot/latest/html/docs/user/pir/intro.pod.html) way to do distutils-style build systems
 in Parrot, but now we have ported distutils to Winxed.
+
+Many thanks are owed to Bob Kuo, who was a Google Summer of Code student that
+wrote a [setup.winxed](https://github.com/bubaflub/parrot-gmp/blob/master/setup.winxed) for his [parrot-gmp](https://github.com/bubaflub/parrot-gmp) project. The setup.winxed in
+parrot-libgit2 was based on his work and wouldn't exist without it.
 
 Maintaining a build script written in higher-level language is a lot
 friendlier. PIR is still a useful language, but core Parrot developers mostly
@@ -73,3 +76,13 @@ var rc       = git_repository_open(repo.ptr, cstring(".git"));
 var bool     = git_repository_is_bare(repo.ptr);
 {% endhighlight %}
 
+## What can parrot-libgit2 right now?
+
+It can do very simple things, like open repositories and indexes. It can call
+simple functions that don't require complex datatypes. There is a branch
+to add Git2.Oid objects, which are basically how you search for SHA1's in a
+git object database.
+
+Not all libgit2 datatypes are currently supported. There are some known bugs
+where assumptions about size_t are made where they should be detected. You
+can look at the current Winxed tests [here](https://github.com/letolabs/parrot-libgit2/blob/master/t/winxed/001_load.t) .
