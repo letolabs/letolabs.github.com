@@ -9,6 +9,11 @@ status: unpublished
 What happens when you tie together [Parrot Virtual Machine](http://parrot.org) and the shiny new
 [libgit2](http://libgit2.github.com) which is rumored to be a ["magical world of ponies, fluffy clouds and unicorns"](https://twitter.com/#!/dukeleto/status/128607267061895168) ? [Winxed](http://winxed.org) unicorns.
 
+<center>
+<a href="http://www.flickr.com/photos/29364131@N07/3119439609/sizes/s/in/photostream/">
+<img src="/images/winxed_unicorn.jpg">
+</a>
+</center>
 
 Example Winxed code using [parrot-libgit2](https://github.com/letolabs/parrot-libgit2):
 
