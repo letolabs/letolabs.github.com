@@ -17,9 +17,10 @@ What happens when you tie together [Parrot Virtual Machine](http://parrot.org) a
 </a>
 </center>
 
-Winxed is a new Javascript-ish language that comes with Parrot Virtual
+Winxed is a new [Javascript-ish](http://whiteknight.github.com/Rosella/winxed/syntaxandtypes.html) language that comes with Parrot Virtual
 Machine. You can basically think of it as a scripting language on top of
 Parrot, which is good for writing system scripts and/or new languages.
+
 
 Many new projects on Parrot use Winxed for their build system, instead of
 Makefiles, Configure.pl or setup.pir. Here is the
