@@ -57,7 +57,7 @@ Even still, every one of these bindings needs to be maintained. And that is
 access to libgit2, so any other Parrot language can load some bytecode and
 then start calling libgit2 functions. Currently there are tests for using
 parrot-libgit2 from PIR and Winxed, but examples of using it from other
-Parrot-derived languages such as [NQP](https://github.com/perl6/nqp] and [Rakudo Perl 6](http://rakudo.org) are on the way.
+Parrot-derived languages such as [NQP](https://github.com/perl6/nqp) and [Rakudo Perl 6](http://rakudo.org) are on the way.
 
 Example Winxed code using [parrot-libgit2](https://github.com/letolabs/parrot-libgit2):
 
