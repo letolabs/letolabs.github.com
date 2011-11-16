@@ -81,13 +81,12 @@ var bool     = git_repository_is_bare(repo.ptr);
 
 ## Why is libgit2 exciting?
 libgit2 is a reimplementation of Git as a thread-safe library in pure C. That
-
 is huge. Currently, many libraries cannot integrate with Git properly for
 various reasons that are baked into how Git works on the command-line.
 
 libgit2 is not going to replace Git 1.x. Rather, it is a kid sister. But
-libgit2 *is* bringing Git to new platforms, since it does not depend on Perl
-and /bin/sh.
+libgit2 *is* bringing native Git support to new platforms, such as Windows,
+since it does not depend on Perl and /bin/sh.
 
 It also allows people to use git repositories via a nice programming API
 instead of shelling out to binaries, which often don't exist. Mobile apps will
