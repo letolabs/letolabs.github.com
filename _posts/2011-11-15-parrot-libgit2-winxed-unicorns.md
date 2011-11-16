@@ -49,7 +49,7 @@ language built on top of Parrot*. Let that sink in for a moment. Usually,
 when you write a binding from a dynamic language to some kind of C/C++
 library, every single language needs a different binding. This is a huge
 amount of work, and most people only ever have the gumption to write a
-binding in one or maybe a few languages. If you are really masochistic,
+binding in one or maybe a few languages. If you are really [masochistic](https://github.com/leto/math--gsl),
 you might even use [SWIG](http://swig.org).
 
 Even still, every one of these bindings needs to be maintained. And that is
@@ -80,6 +80,7 @@ var bool     = git_repository_is_bare(repo.ptr);
 <br>
 
 ## Why is libgit2 exciting?
+
 libgit2 is a reimplementation of Git as a thread-safe library in pure C. That
 is huge. Currently, many libraries cannot integrate with Git properly for
 various reasons that are baked into how Git works on the command-line.
