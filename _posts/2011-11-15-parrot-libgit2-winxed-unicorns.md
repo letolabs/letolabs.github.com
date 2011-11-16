@@ -57,7 +57,7 @@ Even still, every one of these bindings needs to be maintained. And that is
 access to libgit2, so any other Parrot language can load some bytecode and
 then start calling libgit2 functions. Currently there are tests for using
 parrot-libgit2 from PIR and Winxed, but examples of using it from other
-Parrot-derived languages such as NQP and Rakudo Perl 6 are on the way.
+Parrot-derived languages such as [NQP (Not Quite Perl 6)](https://github.com/perl6/nqp] and [Rakudo Perl 6](http://rakudo.org) are on the way.
 
 Example Winxed code using [parrot-libgit2](https://github.com/letolabs/parrot-libgit2):
 
@@ -77,6 +77,22 @@ var rc       = git_repository_open(repo.ptr, cstring(".git"));
 var bool     = git_repository_is_bare(repo.ptr);
 {% endhighlight %}
 
+<br>
+
+## Why is libgit2 exciting?
+libgit2 is a reimplementation of Git as a thread-safe library in pure C. That
+
+is huge. Currently, many libraries cannot integrate with Git properly for
+various reasons that are baked into how Git works on the command-line.
+
+libgit2 is not going to replace Git 1.x. Rather, it is a kid sister. But
+libgit2 *is* bringing Git to new platforms, since it does not depend on Perl
+and /bin/sh.
+
+It also allows people to use git repositories via a nice programming API
+instead of shelling out to binaries, which often don't exist. Mobile apps will
+probably be looking towards libgit2 for their Git-related needs soon.
+
 ## What can parrot-libgit2 right now?
 
 It can do very simple things, like open repositories and indexes. It can call
@@ -90,4 +106,4 @@ can look at the current Winxed tests [here](https://github.com/letolabs/parrot-l
 
 If learning about libgit2 and Parrot sounds interesting to you, fork
 parrot-libgit2 and try it out! You can also find me hanging out in #libgit2 on
-irc.freenode.net if you have questions.
+irc.freenode.net if you have questions. May the DAG be with you.
