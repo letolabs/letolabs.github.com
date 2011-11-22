@@ -99,9 +99,8 @@ probably be looking towards libgit2 for their Git-related needs soon.
 ## What can parrot-libgit2 right now?
 
 It can do very simple things, like open repositories and indexes. It can call
-simple functions that don't require complex datatypes. There is [a branch](https://github.com/letolabs/parrot-libgit2/tree/oid) to add
-Git2.Oid objects, which are basically how you search for SHA1's in a git object
-database.
+simple functions that don't require complex datatypes. Object ids (Git2.Oid)
+were just added and object databases (Git2.Odb) is on the way.
 
 Not all libgit2 datatypes are currently supported. There are some known bugs
 where assumptions about size_t are made where they should be detected. You
