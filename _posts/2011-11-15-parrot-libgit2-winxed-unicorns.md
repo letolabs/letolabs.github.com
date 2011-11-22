@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parrot + libgit2 = Winxed Unicorns
-status: unpublished
+status: published
 ---
 
 # {{ page.title }}
