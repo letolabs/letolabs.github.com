@@ -36,7 +36,7 @@ One of the most valuable parts of the book, for myself, was the frequent
 checklists and excerpts to the main text, such as ["The One Page Business Plan"](http://100startup.com/resources/business-plan.pdf),
 ["Thirty-Nine-Step Product Launch Checklist"](http://100startup.com/resources/launch-checklist.pdf), ["The One Page Promotion Plan"](http://100startup.com/resources/promotion-plan.pdf) and
 many others. In addition to these, there is an appendix containing a list of 25
-selected case studies of $100 Startups, which includes the name of the primary
+selected case studies of \$100 Startups, which includes the name of the primary
 founder, name of the business, a fact-based description and the emotion-based
 promise of the business. This is an invaluable resource for studying the people
-and businesses that a would-be $100 Startup entrepeneur can emulate.
+and businesses that a would-be \$100 Startup entrepeneur can emulate.
