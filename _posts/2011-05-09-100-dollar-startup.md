@@ -28,7 +28,7 @@ or the menagerie of non-tech startups that Chris details in the book.
 
 This book is specifically not focused on tech and other startups that require
 very specific knowledge in a particular niche. That is good, because all the
-examples in the book make you think "Wow, *I* could have come up with that".
+examples in the book make you think "Wow, I could have come up with that".
 
 ## Not Just A Story
 
@@ -39,4 +39,4 @@ many others. In addition to these, there is an appendix containing a list of 25
 selected case studies of $100 Startups, which includes the name of the primary
 founder, name of the business, a fact-based description and the emotion-based
 promise of the business. This is an invaluable resource for studying the people
-and businesses that you would to emulate.
+and businesses that a would-be $100 Startup entrepeneur can emulate.
