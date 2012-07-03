@@ -8,7 +8,9 @@ status: unpublished
 
 I have been following the writing of [Chris Guillebeau](http://chrisguillebeau.com/) for a long time. He speaks the truth and it hits you in the face like a cold trout. So few people on the internet do more than paid cheerleading these days. Chris is the real deal.
 
+<center>
 <img src="http://chrisguillebeau.com/files/2012/05/100startupcover-home.jpg">
+</center>
 
 "The $100 Startup" is an exciting book because it cuts through the crap of
 "talking about" things and go straight into how you can actually "do those
