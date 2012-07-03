@@ -41,6 +41,12 @@ of financial stability.
 
 ## Back when dinosaurs roamed the Internet...
 
+<center>
+<a href="http://www.flickr.com/photos/9516941@N08/5968190155/">
+<img src="/images/dino_approves.jpg">
+</a>
+</center>
+
 I remember the mid-to-late 1990's very well. Domain names were $100 <b>per
 year</b>, webhosting was a new business model and it was pretty hard to find
 any for less than $20/month. Hard drives were tiny and computers were "slow."
