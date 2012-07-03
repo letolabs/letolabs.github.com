@@ -34,6 +34,13 @@ This book is specifically not focused on tech and other startups that require
 very specific knowledge in a particular niche. That is good, because all the
 examples in the book make you think "Wow, I could have come up with that".
 
+This also means that there are many lessons in this book for the Free + Open source
+community. Many of these projects teeter on the edge of being a viable non-profit or
+for-profit entity. The lessons of this book can help propel people into the realm
+of financial stability.
+
+## Back when dinosaurs roamed the Internet...
+
 I remember the mid-to-late 1990's very well. Domain names were $100 <b>per
 year</b>, webhosting was a new business model and it was pretty hard to find
 any for less than $20/month. Hard drives were tiny and computers were "slow."
