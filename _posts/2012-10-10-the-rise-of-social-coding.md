@@ -27,8 +27,8 @@ to share code was to copy files, modify them, and then pass them around on
 physical media.
 
 A defining moment in the history of social coding is when the
-[```patch```](https://en.wikipedia.org/wiki/Patch_(Unix)) program was written
-by [Larry Wall](http://www.wall.org/~larry/) (of Perl fame) in May of 1985.
+[```patch```](https://en.wikipedia.org/wiki/Patch_(Unix\)) program was written
+by [Larry Wall](http://www.wall.org/~larry/) (of [Perl](http://perl.org) fame) in May of 1985.
 There were surely other kinds of patching software before this (patches go all
 the way back to punch cards) but the ```patch``` program was the first Free +
 Open source software to accomplish this and formed the basis of most version
