@@ -13,7 +13,7 @@ Group](http://www.socialmediausersgroup.org/). It will be held at the awesome
 
 <img src="images/rise_of_social_coding.jpg">
 <font size="small">
-Photo Credit: [http://www.flickr.com/photos/jakobesben/2431770167/](Jakob E)
+Photo Credit: [Jakob E](http://www.flickr.com/photos/jakobesben/2431770167/)
 </font>
 
 Some talking points that I will cover:
