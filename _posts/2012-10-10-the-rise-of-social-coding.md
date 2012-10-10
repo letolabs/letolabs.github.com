@@ -2,7 +2,7 @@
 ---
 layout: post
 title: The Rise of Social Coding
-status: unpublished
+status: published
 ---
 
 # {{ page.title }}
