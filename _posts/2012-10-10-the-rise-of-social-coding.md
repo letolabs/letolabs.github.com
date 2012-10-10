@@ -11,10 +11,8 @@ I will be talking about "The Rise of Social Coding" at the [Social Media User
 Group](http://www.socialmediausersgroup.org/). It will be held at the awesome
 [Collective Agency](http://collectiveagency.co/) on October 24th from 6-8pm.
 
-<img src="images/rise_of_social_coding.jpg">
-<font size="small">
+<img src="/images/rise_of_social_coding.jpg"></img>
 Photo Credit: [Jakob E](http://www.flickr.com/photos/jakobesben/2431770167/)
-</font>
 
 Some talking points that I will cover:
 
