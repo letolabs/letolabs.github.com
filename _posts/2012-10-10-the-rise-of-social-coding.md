@@ -11,7 +11,7 @@ I will be talking about "The Rise of Social Coding" at the [Social Media User
 Group](http://www.socialmediausersgroup.org/). It will be held at the awesome
 [Collective Agency](http://collectiveagency.co/) on October 24th from 6-8pm.
 
-Talking points:
+Some talking points that I will cover:
 
 * Where did social coding come from?
 * Where is social coding right now?
@@ -20,10 +20,11 @@ Talking points:
 * Are resumes obsolete in a world of social coding?
 
 Social coding is much older than most people think. Nobody knows any exact
-dates, but it most probably started with sneaker-nets in the 1970's. Back
-in old days when dinosaurs might eat your "console", the only way to share
-code was to copy files, modify them, and then pass them around on physical
-media.
+dates, but it most probably started with
+[sneakernets](https://en.wikipedia.org/wiki/Sneakernet) in the 1960's and
+1970's. Back in the old days when dinosaurs might eat your "console", the only way
+to share code was to copy files, modify them, and then pass them around on
+physical media.
 
 A defining moment in the history of social coding is when the
 [```patch```](https://en.wikipedia.org/wiki/Patch_(Unix)) program was written
@@ -40,4 +41,3 @@ Fast-forward to now and we have [Github](https://github.com),
 [BitBucket](https://bitbucket.org), pull requests with in-line comments and
 snazzy web interfaces for social coding. Where are we going next?  Come join us
 at the Social Media User Group and find out!
-
