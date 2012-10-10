@@ -18,3 +18,26 @@ Talking points:
 * Where will social coding take us in the future?
 * How is social coding changing the way developers work?
 * Are resumes obsolete in a world of social coding?
+
+Social coding is much older than most people think. Nobody knows any exact
+dates, but it most probably started with sneaker-nets in the 1970's. Back
+in old days when dinosaurs might eat your "console", the only way to share
+code was to copy files, modify them, and then pass them around on physical
+media.
+
+A defining moment in the history of social coding is when the
+[```patch```](https://en.wikipedia.org/wiki/Patch_(Unix)) program was written
+by [Larry Wall](http://www.wall.org/~larry/) (of Perl fame) in May of 1985.
+There were surely other kinds of patching software before this (patches go all
+the way back to punch cards) but the ```patch``` program was the first Free +
+Open source software to accomplish this and formed the basis of most version
+control systems that evolved soon after it. Finally you could just pass around
+the part of the code that changed instead of whole files or whole codebases!
+This was huge when floppies reigned and megabytes were magically large
+quantities.
+
+Fast-forward to now and we have [Github](https://github.com),
+[BitBucket](https://bitbucket.org), pull requests with in-line comments and
+snazzy web interfaces for social coding. Where are we going next?  Come join us
+at the Social Media User Group and find out!
+
