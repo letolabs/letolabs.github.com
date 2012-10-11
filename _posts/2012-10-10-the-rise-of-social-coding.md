@@ -40,7 +40,7 @@ the part of the code that changed instead of whole files or whole codebases!
 This was huge when floppies reigned and megabytes were magically large
 quantities.
 
-Fast-forward to now and we have [Github](https://github.com),
-[BitBucket](https://bitbucket.org), pull requests with in-line comments and
+Fast-forward to now and we have [Github](https://github.com/leto),
+[BitBucket](https://bitbucket.org/dukeleto), pull requests with in-line comments and
 snazzy web interfaces for social coding. Where are we going next?  Come join us
 at the Social Media User Group and find out!
