@@ -29,14 +29,23 @@ and useful.
 Being able to enter data via SMS is a killer feature. Beeminder even lets you
 tell it what time of day to deliver an SMS, so I set it up to happen early in
 the morning. This way, I always get an early morning reminder to weigh in and
-record data. I remember using the Hacker's Diet first on paper in a folder and
+record data. I also use Beeminder to track how many good-form squats that I do,
+and I have that SMS reminder come in around 11pm, when I am hopefully heading
+to bed and have the total for the day to record.
+
+I remember using the Hacker's Diet first on paper in a folder and
 then by maintaining a CSV file and using a custom GNUplot script to generate
-graphs in PNG format. It was awesomely nerdy but not very convenient.
+graphs in PNG format. It was awesomely nerdy but not very convenient and hence
+easy to "forget" to record data.
 
 Also, if you start going above your trend (10 day moving average), Beeminder
 warns you and tells you that you *could* lose tomorrow. That is the inflection
 point between short-term you and long-term you (akrasia) and gives you the right
-information at the right time to change your behavior.
+information at the right time to change your behavior. It will also warn you
+that you are off-track and going to *lose today* without corrective measure. That
+is the beginning of the trend changing direction and is the time to act or fail.
+This is a huge motivator that should not be underestimated.
 
 Beeminder was the tracking side of my goal, the other side was doing the actual
-work and changing my eating patterns. Without
+work and changing my eating patterns. Without the help of Josh Sabraw, I would
+not have been able to "stay on the yellow brick road".
