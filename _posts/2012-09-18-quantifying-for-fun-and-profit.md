@@ -10,7 +10,7 @@ status: unpublished
 TLDR: With the help of [Beeminder](http://beeminder.com) and the excellent personal trainer
 [Josh Sabraw](http://pdxtraining.com), I've lost 27 pounds and continue on a downward trend.
 
-<img src="https://www.beeminder.com/dukeleto/goals/github_commits/graph">
+<img src="https://www.beeminder.com/dukeleto/goals/weight/graph?style=hist">
 
 * What is Beeminder?
 
