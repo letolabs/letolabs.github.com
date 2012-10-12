@@ -7,7 +7,8 @@ status: unpublished
 # {{ page.title }}
 
 
-TLDR: With the help of Beeminder and the excellent personal trainer [Josh Sabraw](http://pdxtraining.com), I lost 20 pounds in 4 months.
+TLDR: With the help of [Beeminder](http://beeminder.com) and the excellent personal trainer
+[Josh Sabraw](http://pdxtraining.com), I've lost 27 pounds and continue on a downward trend.
 
 * What is Beeminder?
 
@@ -16,7 +17,7 @@ Diet](http://www.fourmilab.ch/hackdiet/www/hackdiet.html) and learned many
 things, but the most important was the concept of a "trend". The corollary of
 this is that tracking your daily weight is only important to calculate your
 moving average. It is easy to get demotivated if you have a single day spike in
-weight, but if you keep your eye on the trend, it is put into perspective.
+weight, which is why it is much better to gain the perspective from the trend.
 
 * Give a little history of my use of Beeminder
 
