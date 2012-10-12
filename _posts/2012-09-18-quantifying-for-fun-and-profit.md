@@ -29,7 +29,7 @@ and useful.
 Being able to enter data via SMS is a killer feature. Beeminder even lets you
 tell it what time of day to deliver an SMS, so I set it up to happen early in
 the morning. This way, I always get an early morning reminder to weigh in and
-record data. I also use Beeminder to track how many good-form squats that I do,
+record data. I also use Beeminder to track how many good-form [squats](https://www.beeminder.com/dukeleto/goals/squats) that I do,
 and I have that SMS reminder come in around 11pm, when I am hopefully heading
 to bed and have the total for the day to record.
 
