@@ -51,7 +51,7 @@ Beeminder was the tracking side of my goal, the other side was doing the actual
 work and changing my eating patterns. Without the help of [Josh Sabraw](https://twitter.com/pdxtraining) of [Form and Function](http://pdxtraining.com).
 I would not have been able to "stay on the yellow brick road". 
 
-The most important things that I learned from Josh was learning the how to do things with proper form. There is a
+One of the most important lessons that I learned from Josh was the importance of proper form. There is a
 world of a difference between doing planks or squats with proper form and not. There is
 really no point in doing this things if you are going to do them incorrectly, because
 you are just going to hurt yourself or get frustrated, or both. Josh excels at teaching
