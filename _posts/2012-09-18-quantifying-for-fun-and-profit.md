@@ -8,11 +8,11 @@ status: unpublished
 
 
 TLDR: With the help of [Beeminder](http://beeminder.com) and the excellent personal trainer
-[Josh Sabraw](http://pdxtraining.com), I've lost 27 pounds and continue on a downward trend.
+[Josh Sabraw of Form and Fitness](http://pdxtraining.com), I've lost 27 pounds and continue on a downward trend.
 
 <img src="https://www.beeminder.com/dukeleto/goals/weight/graph?style=hist">
 
-* What is Beeminder?
+## What is Beeminder?
 
 Many years ago I read the [Hacker's Diet](http://www.fourmilab.ch/hackdiet/www/hackdiet.html) and learned many
 things, but the most important was the concept of a "trend". The corollary of
@@ -20,12 +20,11 @@ this is that tracking your daily weight is only important to calculate your
 moving average. It is easy to get demotivated if you have a single day spike in
 weight, which is why it is much better to gain the perspective from the trend.
 
-* Give a little history of my use of Beeminder
+## How I use Beeminder
 
-Used it a little, went off track, so I put $5 on the line and it got a lot more fun
-and useful.
-
-* Why does Beeminder work?
+As you can see from the graph above, I started using Beeminder but went off
+track. But I saw that Beeminder motivated me to go in the right direction
+and I knew that putting some cash money on the line would motivate me even more.
 
 Being able to enter data via SMS is a killer feature. Beeminder even lets you
 tell it what time of day to deliver an SMS, so I set it up to happen early in
@@ -48,5 +47,12 @@ is the beginning of the trend changing direction and is the time to act or fail.
 This is a huge motivator that should not be underestimated.
 
 Beeminder was the tracking side of my goal, the other side was doing the actual
-work and changing my eating patterns. Without the help of Josh Sabraw, I would
-not have been able to "stay on the yellow brick road".
+work and changing my eating patterns. Without the help of Josh Sabraw of Form
+and Fitness, I would not have been able to "stay on the yellow brick road".
+
+## Making things Beemind-able
+
+The key to making Beeminder really useful for *you* is to make it dead simple.
+Another thing that I use Beemind to track is commits. The only way to make this
+feasible is to make it automatic, so I wrote a silly little Perl module that
+could be added as a Github post-receive hook.
