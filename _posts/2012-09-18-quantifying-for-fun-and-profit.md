@@ -7,7 +7,7 @@ status: unpublished
 # {{ page.title }}
 
 
-TLDR: With the help of [Beeminder](http://beeminder.com) and the excellent personal trainer
+[TLDR](https://en.wiktionary.org/wiki/TLDR): With the help of [Beeminder](http://beeminder.com) and the excellent personal trainer
 [Josh Sabraw of Form and Function](http://pdxtraining.com), I've lost 27 pounds and continue on a downward trend.
 
 <img src="https://www.beeminder.com/dukeleto/goals/weight/graph?style=hist">
