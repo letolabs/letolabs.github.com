@@ -8,7 +8,7 @@ status: unpublished
 
 
 TLDR: With the help of [Beeminder](http://beeminder.com) and the excellent personal trainer
-[Josh Sabraw of Form and Fitness](http://pdxtraining.com), I've lost 27 pounds and continue on a downward trend.
+[Josh Sabraw of Form and Function](http://pdxtraining.com), I've lost 27 pounds and continue on a downward trend.
 
 <img src="https://www.beeminder.com/dukeleto/goals/weight/graph?style=hist">
 
@@ -25,6 +25,7 @@ weight, which is why it is much better to gain the perspective from the trend.
 As you can see from the graph above, I started using Beeminder but went off
 track. But I saw that Beeminder motivated me to go in the right direction
 and I knew that putting some cash money on the line would motivate me even more.
+Beeminder tells you how to avoid the impending train wreck.
 
 Being able to enter data via SMS is a killer feature. Beeminder even lets you
 tell it what time of day to deliver an SMS, so I set it up to happen early in
@@ -47,8 +48,14 @@ is the beginning of the trend changing direction and is the time to act or fail.
 This is a huge motivator that should not be underestimated.
 
 Beeminder was the tracking side of my goal, the other side was doing the actual
-work and changing my eating patterns. Without the help of Josh Sabraw of Form
-and Fitness, I would not have been able to "stay on the yellow brick road".
+work and changing my eating patterns. Without the help of [Josh Sabraw](https://twitter.com/pdxtraining) of [Form and Function](http://pdxtraining.com).
+I would not have been able to "stay on the yellow brick road". 
+
+The most important things that I learned from Josh was learning the how to do things with proper form. There is a
+world of a difference between doing planks or squats with proper form and not. There is
+really no point in doing this things if you are going to do them incorrectly, because
+you are just going to hurt yourself or get frustrated, or both. Josh excels at teaching
+proper form and that is a lesson that will be valuable for a lifetime.
 
 ## Making things Beemind-able
 
