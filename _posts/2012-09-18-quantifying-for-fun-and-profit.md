@@ -60,6 +60,12 @@ proper form and that is a lesson that will be valuable for a lifetime.
 ## Making things Beemind-able
 
 The key to making Beeminder really useful for *you* is to make it dead simple.
-Another thing that I use Beemind to track is commits. The only way to make this
-feasible is to make it automatic, so I wrote a silly little Perl module that
+Another thing that I use Beemind to track is [commits](https://www.beeminder.com/dukeleto/goals/github_commits). 
+The only way to make this feasible is to make it automatic, so I wrote a silly little [Perl module](https://github.com/letolabs/App-Beeminder-Hook) that
 could be added as a Github post-receive hook.
+
+<img src="/images/github_commits_graph.png">
+
+Look at that motivation! I actually forgot that I changed my goal from a flat
+line to 10 commits per day. But when the Beeminder bot told me I was going to
+lose, I said "Oh no you don't" and started a flurry of commit activity.
