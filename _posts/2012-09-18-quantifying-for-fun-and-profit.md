@@ -14,8 +14,7 @@ TLDR: With the help of [Beeminder](http://beeminder.com) and the excellent perso
 
 * What is Beeminder?
 
-Many years ago I read the [Hacker's
-Diet](http://www.fourmilab.ch/hackdiet/www/hackdiet.html) and learned many
+Many years ago I read the [Hacker's Diet](http://www.fourmilab.ch/hackdiet/www/hackdiet.html) and learned many
 things, but the most important was the concept of a "trend". The corollary of
 this is that tracking your daily weight is only important to calculate your
 moving average. It is easy to get demotivated if you have a single day spike in
@@ -42,7 +41,7 @@ easy to "forget" to record data.
 
 Also, if you start going above your trend (10 day moving average), Beeminder
 warns you and tells you that you *could* lose tomorrow. That is the inflection
-point between short-term you and long-term you (akrasia) and gives you the right
+point between short-term you and long-term you ([akrasia](http://blog.beeminder.com/akrasia/)) and gives you the right
 information at the right time to change your behavior. It will also warn you
 that you are off-track and going to *lose today* without corrective measure. That
 is the beginning of the trend changing direction and is the time to act or fail.
