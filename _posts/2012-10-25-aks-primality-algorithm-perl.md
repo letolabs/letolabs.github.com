@@ -16,3 +16,5 @@ The majority of the work was done by my previous GSoC student, Bob Kuo. I
 merely helped get the fix_aks branch merged, helped add some tests and pushed
 the distribution to CPAN. 
 
+Optimized algorithm by Lenstra + Pomerance: http://www.math.dartmouth.edu/~carlp/PDF/complexity12.pdf
+
