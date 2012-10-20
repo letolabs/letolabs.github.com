@@ -10,6 +10,9 @@ The first implementaiton of the
 [AKS](https://en.wikipedia.org/wiki/AKS_primality_test) (Agrawal–Kayal–Saxena)
 primality algorithm in pure Perl!
 
+This is the "naive" implementation, which is O(log(n)^12). There is an improved
+algorithm that is O(log(n)^6) and we would love patches that implement it :)
+
 [Math::Primality::AKS](https://metacpan.org/module/Math::Primality::AKS)
 
 The majority of the work was done by my previous GSoC student, [Bob Kuo](https://twitter.com/bubaflub). I
