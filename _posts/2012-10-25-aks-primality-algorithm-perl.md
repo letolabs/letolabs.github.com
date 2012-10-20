@@ -10,8 +10,16 @@ The first implementaiton of the
 [AKS](https://en.wikipedia.org/wiki/AKS_primality_test) (Agrawal–Kayal–Saxena)
 primality algorithm in pure Perl!
 
-This is the "naive" implementation, which is O(log(n)^12). There is an 
-[improved algorithm by Lenstra + Pomerance](http://www.math.dartmouth.edu/~carlp/PDF/complexity12.pdf) that is O(log(n)^6) and we would love patches that implement it :)
+The AKS algorithm was an extremely important advance in the field of prime numbers,
+because it proved that checking if a number is prime is in the class of the polynomial
+run-time algorithms (P), instead of those that are not solvable in polynomial time (NP).
+In practical terms, this means that there are efficient, deterministic algorithms that
+can tell if a number is prime.
+
+This is the "naive" implementation, which is O(log(n)^12). There is an
+[improved algorithm by Lenstra +
+Pomerance](http://www.math.dartmouth.edu/~carlp/PDF/complexity12.pdf) that is
+O(log(n)^6) and we would love patches that implement it :)
 
 [Math::Primality::AKS](https://metacpan.org/module/Math::Primality::AKS)
 
