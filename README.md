@@ -1,6 +1,6 @@
 # Leto Labs LLC Website
 
-This is the code behind http://labs.leto.net . Patches welcome :)
+This is the code behind http://letolabs.com . Patches welcome :)
 
 This site is powered by http://github.com/mojombo/jekyll
 
